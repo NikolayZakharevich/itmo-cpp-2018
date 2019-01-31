@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1519812474 source:d:\Универ\Прога\sem 2\lab1\main.cpp
+	"matrix.h"
+	<vector>
+	<string>
+
+1519819617 d:\Универ\Прога\sem 2\lab1\matrix.h
+	<iostream>
+	<ostream>
+	<fstream>
+	<cstdlib>
+
+1519812716 source:d:\Универ\Прога\sem 2\lab1\matrix.cpp
+	"matrix.h"
+
+1519812474 source:d:\Универ\Прога\sem2\lab1\main.cpp
+	"matrix.h"
+	<vector>
+	<string>
+
+1519850800 d:\Универ\Прога\sem2\lab1\matrix.h
+	<iostream>
+	<ostream>
+	<fstream>
+	<cstdlib>
+
+1519850846 source:d:\Универ\Прога\sem2\lab1\matrix.cpp
+	"matrix.h"
+
+1521834536 source:d:\Универ\Программирование\sem2\lab1\matrix.cpp
+	"matrix.h"
+
+1521833825 d:\Универ\Программирование\sem2\lab1\matrix.h
+	<iostream>
+	<ostream>
+	<fstream>
+	<cstdlib>
+	<cstdint>
+	<cstring>
+
+1523430286 source:d:\Универ\Программирование\sem2\lab1\main.cpp
+	"matrix.h"
+	<vector>
+	<string>
+	<limits.h>
+
